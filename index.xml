@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>https://devsres.com/moacir/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt</language>
+    <lastBuildDate>Wed, 21 Oct 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://devsres.com/moacir/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Post</title>
+      <link>https://devsres.com/moacir/blog/post/</link>
+      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://devsres.com/moacir/blog/post/</guid>
+      <description>Draft.</description>
+    </item>
+    
+    <item>
+      <title>Sobre</title>
+      <link>https://devsres.com/moacir/about/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://devsres.com/moacir/about/</guid>
+      <description>O fundador da DevSREs Network Initiative, Marcelo Andrade, é entusiasta do universo Linux e software livre desde a primeira instalação do saudoso Conectiva Parolin em1997.
+Ao longo dos anos, transitou profissionalmente entreos mais diversos nomes comumente atribuídos aos profissionais de TI que não trabalham diretamente com desenvolvimento de software: sysop, sysadmin, adminisstrador de redes, analista de redes, analista de infraestrutura, analista de suporte, engenheiro de soluções&amp;hellip; Até auto instituir o título de Site Reliability Engineer, ou engenheiro de confiabilidade (de sites?</description>
+    </item>
+    
+    <item>
+      <title>Kontakt</title>
+      <link>https://devsres.com/moacir/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devsres.com/moacir/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
