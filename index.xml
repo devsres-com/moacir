@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
+    <title>/dev/sres</title>
     <link>https://devsres.com/moacir/</link>
-    <description>Recent content on </description>
+    <description>Recent content on /dev/sres</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pt</language>
+    <language>en</language>
     <lastBuildDate>Wed, 21 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://devsres.com/moacir/index.xml" rel="self" type="application/rss+xml" />
@@ -21,7 +21,7 @@
     </item>
     
     <item>
-      <title>Sobre</title>
+      <title>About</title>
       <link>https://devsres.com/moacir/about/</link>
       <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
       
